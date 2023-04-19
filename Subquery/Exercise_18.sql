@@ -1,4 +1,4 @@
-// Write a query to select last 10 records from a table.
+-- Write a query to select last 10 records from a table.
 
 
 SELECT *

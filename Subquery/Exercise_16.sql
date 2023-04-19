@@ -1,4 +1,4 @@
-// Write a query to find the 5th maximum salary in the employees table.
+-- Write a query to find the 5th maximum salary in the employees table.
 
 SELECT DISTINCT salary
   FROM Employees e2

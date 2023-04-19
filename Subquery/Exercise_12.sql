@@ -1,4 +1,4 @@
-//  Write a query to find the name (first_name, last_name) of the employees who are not supervisors.
+--  Write a query to find the name (first_name, last_name) of the employees who are not supervisors.
 
 SELECT first_name, last_name
   FROM Employees

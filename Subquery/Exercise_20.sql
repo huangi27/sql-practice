@@ -1,4 +1,4 @@
-// Write a query to get 3 maximum salaries.
+-- Write a query to get 3 maximum salaries.
 
 SELECT EMPLOYEE_ID, SALARY
   FROM Employees T

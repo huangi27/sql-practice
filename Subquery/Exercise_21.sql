@@ -1,4 +1,4 @@
-// Write a query to get 3 minimum salaries.
+-- Write a query to get 3 minimum salaries.
 
 SELECT * 
   FROM Employees
